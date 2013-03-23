@@ -1,0 +1,8 @@
+name: Breakout
+author: Luc Tossut
+dependencies:
+  browser: any
+
+#dependencies:
+#  js: any
+#  unittest: any
